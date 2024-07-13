@@ -50,6 +50,50 @@ http://atlasm7ux6xk4uvsd4ioauta4zzel6gz75mrea264za7yv736r6s5zyd.onion
 
 The vendor bond is a fee that is required to become a vendor on Atlas Market. This fee is required to prevent scammers from becoming vendors. The vendor bond is not refundable in any circumstance.
 
+# Before you buy
+
+Before you buy a product, you should always check the vendor's profile. You can do this by clicking on the vendor's name on the product page. This will take you to the vendor's profile page where you can see the vendor's level, reviews and other information.
+
+It is advised to only buy from vendors with a high level and good reviews. This will reduce the risk of getting scammed.
+# Buying a product
+
+There are three types of products on Atlas market and each type has a different buying process.
+
+    Physical products
+    Digital products
+    Autoproducts
+
+# Physical products
+
+Physical products are products that are shipped to you. When you buy a physical product, you will be asked to enter your shipping address. You can also enter a custom shipping address if you want to ship the product to a different address.
+
+    Shipping addresses are automatically encrypted using the vendor PGP key. This means that only the vendor can decrypt your shipping address and no one else.
+
+# Digital products
+
+Digital products are products that are sent to you digitally. When you buy a digital product, the vendor will accept your order and send you a message with the product. You can find this message in the order page.
+Autoproducts
+
+Autoproducts are products that are automatically delivered to you. When you buy an autoproduct, the system will automatically accept your order and send you a message with the product. You can find this message in the order page.
+Payment methods
+
+# Atlas supports two payment methods:
+
+    Bitcoin
+    Monero
+
+You can choose the payment method on checkout. If you choose Bitcoin, you will be given a Bitcoin address to send your payment to. If you choose Monero, you will be given a Monero address to send your payment to.
+Order status
+
+Once you have placed an order AND paid for it, the order will be marked as paid. The vendor will then accept your order and mark it as accepted. The vendor will then ship the product and mark the order as shipped. If you have any problems with the order, you can open a dispute and mark the order as disputed. If the dispute is resolved, the order will be marked as resolved. If the dispute is not resolved, the order will be marked as cancelled.
+Reviews
+
+Once you have received your product, you can leave a review for the vendor. You can do this by going to the order page and entering your review. This will help other users know if the vendor is trustworthy or not.
+Marking your order as received
+
+Please once you have received your product, mark your order as received. This will help the vendor get their funds. You can do this by going to the order page. If you do not mark your order as received, the order will be automatically marked as received after 7 days. This is to prevent vendors from not getting their funds.
+
+
 # The Atlas Market Admins pgp key
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
