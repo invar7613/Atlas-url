@@ -27,16 +27,15 @@ http://atlasm7ux6xk4uvsd4ioauta4zzel6gz75mrea264za7yv736r6s5zyd.onion
     If listing are deleted, order will be refunded immediately.
     Do not lose your PGP Key! If you lose this you will not be able to sell any more items and you can not edit your PGP key if you are a vendor
     The following items are strictly prohibited:
-        Contract killing, Hitman/Murder/Human Trafficking
-        Guns or other weapons which discharge high velocity rounds, maim human beings or animals in any way shape or form
-        Explosives, precursors or any chemical used to produce explosives or devices
-        Child, animal and violent pornography
-        Human or animal organs and/or body parts
-        Livestock (any animal living or deceased)
-        Deadly poison
-        Lab research virus
-        Fentanyl
-    Accepting orders outside of Atlas is forbidden. Any vendor caught dealing outside of Atlas, using apps like Wickr or Telegram. will be banned immediately.
+        * Contract killing, Hitman/Murder/Human Trafficking
+        * Guns or other weapons which discharge high velocity rounds, maim human beings or animals in any way shape or form
+        * Explosives, precursors or any chemical used to produce explosives or devices
+        * Child, animal and violent pornography
+        * Human or animal organs and/or body parts
+        * Livestock (any animal living or deceased)
+        * Deadly poison
+        * Lab research virus
+            Accepting orders outside of Atlas is forbidden. Any vendor caught dealing outside of Atlas, using apps like Wickr or Telegram. will be banned immediately.
     Scamming buyers will result in instant ban, you will lose all your account balance.
     Doxxing is prohibited, either in whole or in part. Threats of doxxing, blackmail, extortion, or storage of shipping or personal information about the customer by sellers beyond the point where it is necessary to fulfill the order are also not allowed.
     Please understand that the vendor bond fee is not refundable in any circumstance. The vendor bond fee is required to prevent any scammers on Atlas.
